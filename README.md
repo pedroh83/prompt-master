@@ -50,4 +50,5 @@ O texto da [Instrução de Trabalho](docs/IT-PM-001_instrucao_de_trabalho.md) po
 
 ---
 
-**Pedro Henrique Simas**: Qualidade, Processos e Requisitos | Salvador, BA
+**Pedro Henrique Simas**: Qualidade, Processos e Requisitos | Salvador, BA  
+[LinkedIn](https://www.linkedin.com/in/pedro-henrique-simas/)
